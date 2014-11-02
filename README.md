@@ -1,9 +1,5 @@
 Robot-Tricks
 ============
-#Diya Banerjee CS 1301-A3
-#gt id: 903080103
-#dbanerjee@gatech.edu
-#"I worked on the homework assignment individually, and referred only to this semesters course materials
 
 from Myro import *
 from time import *
